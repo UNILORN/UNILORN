@@ -10,8 +10,8 @@
 |||
 |---|---|
 |Corp|OPTiM Corporation|
-|Department|Platform Technology Strategy Office, Sub Manager|
-|Age|24|
+|Department|DX Bisiness Development, Senior Engineer|
+|Age|29|
 |Field|IoT Development,Web Backend,Frontend,AWS Infrastructure|
 
 ### Portfolio
